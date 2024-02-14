@@ -1,12 +1,14 @@
 👨🏻‍💻  About Me
+
 - 👋 Hi, I’m @GauravKumar0503
 - 👀 I’m interested in Data , Machine Learning and featured engineering.
 - 🌱 I’m currently learning Data Science.
-- 💼   Working as a Data Analyst Intern at CloudyMl.
+- 💼   Working as a Data Analyst at BT.
 - 🌱   Learning more about Data Analysis, Data Cleaning and Visualization.
 - ✍️   Fond of writng SQL Queries.
 
 🛠  Tech Stack
+
     💻   Python
 
     🛢   Numpy
@@ -24,7 +26,8 @@
     ⚙️   GitHub
 
 🤝🏻  Connect with Me 
-LinkedIn Email
+    LinkedIn- https://www.linkedin.com/in/gaurav-sharma-6445211a5
+    Email -   gauravsharma.recruit@gmail.com
 
 <!---
 GauravKumar0503/GauravKumar0503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
