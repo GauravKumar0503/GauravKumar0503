@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @GauravKumar0503
 - 👀 I’m interested in Data , Machine Learning and featured engineering.
 - 🌱 I’m currently learning Data Science.
-- 💼   Working as a Associate Engineer at BT.
+- 💼   Working as an Associate Engineer at BT.
 - 🌱   Learning more about Data Analysis, Data Cleaning and Visualization.
 - ✍️   Fond of writng SQL Queries.
 
